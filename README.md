@@ -1,16 +1,11 @@
-## Hi there 👋
+Where you go to school: USC
+First “tech” you owned: Old Toshiba Laptop 
+Hometown: McLean, VA
+Field of Study: Economics, Data Science, Business 
+Contact info (publicly available, like your school email. Optional): 
+Brief Bio about yourself: I am a student looking for a job! 
 
-<!--
-**lawryang/lawryang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![alt text](https://www.newyorkwelcome.net/kimg/1200/Washington_DC_Comprehensive_Guide.png)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on learning what Github is! 
-- 🌱 I’m currently learning what Github is!!!!
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
